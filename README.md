@@ -8,7 +8,7 @@ Check out my website [here](https://eduardoialcaraz.wordpress.com/)!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love playing video games (especially ones where I can play with others), board games for the same reason, and programming silly projects and games in my free time
 
-## Socials
+## Other Media
 
 <a href="mailto:eduardoialcaraz01@gmail.com" style="margin-right:10px;"><img alt="Gmail" title="Gmail" height="48" width="48" src="Media/mail icon.png"></a>
 <a href="www.linkedin.com/in/eduardoalcaraz"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="Media/linkedin icon.png"></a>
