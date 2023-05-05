@@ -3,7 +3,6 @@ Hello! I'm an aspiring game developer and programmer, passionate about creating 
 
 Check out my website [here](https://eduardoialcaraz.wordpress.com/)!
 
-- 🌱 I’m currently learning about game development and artificial intelligence
 - 💬 Ask me about my board game collection! I love getting to know people through the awesome power of board games
 - ⚡ Fun fact: I love playing video games (especially ones where I can play with others), board games for the same reason, and programming silly projects and games in my free time
 
